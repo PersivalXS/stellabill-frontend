@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/past-periods-drilldown",
+    "uiux/prepaid-explainer-refresh",
+    "uiux/welcome-screen-refresh"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/past-periods-drilldown": "main",
+    "uiux/prepaid-explainer-refresh": "main",
+    "uiux/welcome-screen-refresh": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/past-periods-drilldown",
+    "uiux/prepaid-explainer-refresh",
+    "uiux/welcome-screen-refresh"
+  ]
+}
